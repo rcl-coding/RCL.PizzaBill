@@ -8,4 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RCL.PizzaBill.Core\RCL.PizzaBill.Core.csproj" />
+  </ItemGroup>
+
 </Project>
