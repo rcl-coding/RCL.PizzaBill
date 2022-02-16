@@ -17,7 +17,7 @@ Create an object from the ``PizzaBillCalculator`` class to calculate the cost of
 
 ## Example
 
-The example below demonstrates the usage of the library to claculate the bill for a ``Regular`` piza with ``3`` ingredients
+The example below demonstrates the usage of the library to claculate the bill for a ``Regular`` pizza with ``3`` ingredients
 
  ```csharp
 // Create a Regular Pizza
